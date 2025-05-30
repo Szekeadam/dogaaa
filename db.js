@@ -20,4 +20,4 @@ if (count === 0) {
 }
 
 export default db;
-s
+
